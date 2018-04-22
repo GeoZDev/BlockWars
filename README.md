@@ -1,5 +1,5 @@
-# CastleSiege
-A minigame inspired by MinePlex brought on MCPE for Magmaticus server
+# BlockWars
+A minigame for Magmaticus server by GeoZDev
 
 # TODO
 
@@ -8,3 +8,4 @@ A minigame inspired by MinePlex brought on MCPE for Magmaticus server
 - [x] Chest with Items
 - [ ] Guns (maybe)
 - [ ] Kits (WIP)
+
